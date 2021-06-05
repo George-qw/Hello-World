@@ -1,2 +1,2 @@
 # Hello-World
-log (My fortuna code);
+log (My first code);
